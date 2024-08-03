@@ -12,3 +12,27 @@ h3 {
     color: lightslategray;
     font-size: xx-large;
 }
+
+.button {
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+  
+.button1 {
+    background-color: #6fd1ad; 
+    color: black; 
+    border: 2px solid #04AA6D;
+}
+  
+.button1:hover {
+    background-color: #026e47;
+    color: white;
+}
