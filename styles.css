@@ -1,3 +1,14 @@
 h1 {
-    color: red;
+    color: darkslategrey;
+    font-size: xx-large;
+}
+
+h2 {
+    color: darkgoldenrod;
+    font-size: xx-large;
+}
+
+h3 {
+    color: lightslategray;
+    font-size: xx-large;
 }
